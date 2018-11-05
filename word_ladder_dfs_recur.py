@@ -1,4 +1,3 @@
-# Adam Yao
 import time
 import sys
 sys.setrecursionlimit(3000)
