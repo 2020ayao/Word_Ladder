@@ -1,4 +1,3 @@
-# Name: Adam Yao     Date: 10/5/18  KIM, AI
 import math, random, time, heapq
 
 
