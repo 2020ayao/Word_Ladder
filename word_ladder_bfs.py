@@ -1,4 +1,3 @@
-# Adam Yao
 import time
 
 '''helper methods'''
