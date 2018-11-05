@@ -1,4 +1,3 @@
-# Adam Yao
 import pickle
 import time
 def readFile(filename):
