@@ -1,4 +1,3 @@
-# Adam Yao
 dict = {}
 def readFile(filename):
     file = open("words.txt")
